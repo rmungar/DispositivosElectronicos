@@ -1,2 +1,3 @@
-class Telefono {
+class Telefono() : EncendidoApagado, DispositivoElectronico {
+
 }
